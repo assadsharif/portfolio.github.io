@@ -41,4 +41,3 @@ function formatWisdom(wisdom) {
 }
 
 formatWisdom(personalWisdom);
-console.log(formatWisdom);
